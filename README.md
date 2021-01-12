@@ -5,6 +5,7 @@ This repository for korean handwritten ocr
 "2021/01/05"
 1. start project
 - 필기체(한국어)를 인식하기 위한 OCR opensource 및 도구 선택
+
  OS  : ubuntu(20.04 focal)
 tool : tesseract(5.0.0 alpha), jTessBoxEditor(for trainning)
 
