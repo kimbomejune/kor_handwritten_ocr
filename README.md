@@ -11,15 +11,9 @@ This repository for korean handwritten ocr
 2. train handwritten and test
 - 로컬서버에서 모델 훈련 및 훈련데이터 수집
 - 인식률 30% 미만, 오차율 60% 이상
-- 과적합 데이터로도 테스트 진행 준비
 
 
 "2021/01/12"
 1. Tesseract는 한글 필기체에 적합하지 않다고 판단
 - [.traineddata] 파일 병합이 불가능 혹은 불안정
-- 정식적으로 GPU를 지원하지 않음
 - 새로운 데이터 훈련에 많은 비용 소모
-
-# EasyOCR - 작업중
-"2021/01/12"
-1. start project
